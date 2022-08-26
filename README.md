@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adit-kumar01
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning python and C
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on web d projects
 - 📫 How to reach me "adit naam hi kafi hai"
 
